@@ -1,0 +1,94 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-111111111111",
+    "name": "Boys Cotton Shirt - Sky Blue",
+    "description": "Placeholder product. Breathable cotton shirt for everyday wear.",
+    "price": 1590,
+    "section": "Boys",
+    "subCategory": "Shirts",
+    "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=800&q=80",
+    "variants": [
+      { "size": "5-6Y", "stock": 9999 },
+      { "size": "7-8Y", "stock": 9999 },
+      { "size": "9-10Y", "stock": 9999 }
+    ],
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222222",
+    "name": "Boys Printed T-Shirt & Shorts Set",
+    "description": "Placeholder product. Everyday cotton t-shirt and shorts set for active kids.",
+    "price": 1490,
+    "section": "Boys",
+    "subCategory": "Shorts",
+    "image": "https://images.unsplash.com/photo-1519457851430-99a35d05ce70?w=800&q=80",
+    "variants": [
+      { "size": "5-6Y", "stock": 9999 },
+      { "size": "7-8Y", "stock": 9999 },
+      { "size": "9-10Y", "stock": 9999 }
+    ],
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333333",
+    "name": "Girls Traditional Frock - Sunflower Yellow",
+    "description": "Placeholder product. Soft cotton frock with frill sleeves, machine washable, everyday comfort for kids.",
+    "price": 1690,
+    "section": "Girls",
+    "subCategory": "Traditional",
+    "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=80",
+    "variants": [
+      { "size": "2-3Y", "stock": 9999 },
+      { "size": "4-5Y", "stock": 9999 },
+      { "size": "6-7Y", "stock": 9999 }
+    ],
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444444",
+    "name": "Girls Denim Jeggings - Classic Blue",
+    "description": "Placeholder product. Comfortable stretch denim jeggings for daily wear.",
+    "price": 1390,
+    "section": "Girls",
+    "subCategory": "Pants",
+    "image": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=800&q=80",
+    "variants": [
+      { "size": "4-5Y", "stock": 9999 },
+      { "size": "6-7Y", "stock": 9999 },
+      { "size": "8-9Y", "stock": 9999 }
+    ],
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "55555555-5555-5555-5555-555555555555",
+    "name": "School Uniform Shirt - White",
+    "description": "Placeholder product. Durable, easy-iron school uniform shirt.",
+    "price": 1190,
+    "section": "Uniforms",
+    "subCategory": "Shirts",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&q=80",
+    "variants": [
+      { "size": "5-6Y", "stock": 9999 },
+      { "size": "7-8Y", "stock": 9999 },
+      { "size": "9-10Y", "stock": 9999 },
+      { "size": "11-12Y", "stock": 9999 }
+    ],
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "66666666-6666-6666-6666-666666666666",
+    "name": "School Uniform Trousers - Grey",
+    "description": "Placeholder product. Sturdy school uniform trousers built for daily wear.",
+    "price": 1290,
+    "section": "Uniforms",
+    "subCategory": "Pants",
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&q=80",
+    "variants": [
+      { "size": "5-6Y", "stock": 9999 },
+      { "size": "7-8Y", "stock": 9999 },
+      { "size": "9-10Y", "stock": 9999 },
+      { "size": "11-12Y", "stock": 9999 }
+    ],
+    "createdAt": "2026-08-01T10:00:00.000Z"
+  }
+]
